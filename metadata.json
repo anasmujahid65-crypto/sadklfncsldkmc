@@ -1,0 +1,6 @@
+{
+  "name": "Qorsia Kitchen",
+  "description": "Professional and authentic website for Qorsia Kitchen, a premium Pakistani/Desi restaurant in Karachi Cantonment specializing in Biryani, Pulao, Handi, and Karahi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
